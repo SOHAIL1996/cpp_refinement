@@ -1,7 +1,7 @@
+#include <cmath>
 #include <iostream>
 
-using std::cout;
-using std::endl;
+using namespace std;
 
 void main() 
 {
