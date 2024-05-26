@@ -72,7 +72,7 @@ int main2()
 }
 
 //----------------------------------------------------------------------------------
-// V3 Using Namespace for Global Removal -> Can be used and is safer then v1
+// V3 Using Namespace for Global Removal -> Can be used and is safer then v2 
 //----------------------------------------------------------------------------------
 
 int main3() 
