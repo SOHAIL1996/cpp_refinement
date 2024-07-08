@@ -3,7 +3,7 @@
 
 using namespace std;
 
-void main() 
+void main()
 {
     cout << "Initiating Program" << endl;
 }
